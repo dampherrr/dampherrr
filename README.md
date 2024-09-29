@@ -1,4 +1,4 @@
-<img src="./giphy.webp" alt="Cherry Blossom Gif" style="width: 100%; height: 24rem; object-fit: cover;">
+<img src="./blossom.gif" alt="Cherry Blossom Gif" style="width: 100%; height: 24rem; object-fit: cover;">
 
 # 👋 Hi, I'm Damphe: 
 
